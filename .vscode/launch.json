@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringReactApplication<spring-react>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.springreact.springreact.SpringReactApplication",
+      "projectName": "spring-react",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
